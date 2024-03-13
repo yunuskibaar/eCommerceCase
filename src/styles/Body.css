@@ -1,0 +1,70 @@
+#body-container{
+  display: flex;
+  padding-top: 50px;
+  
+}
+
+.left-div {
+  width: 20%; 
+  border: 1px solid #64ffda ;
+  height: 600px;
+  text-align: center;
+  position: sticky;
+  display: flex;
+  flex-direction: column;
+}
+
+.right-div {
+  width: 80%; 
+   padding-left: 25px;
+   
+  
+}
+
+.card-img-top{
+  height: 50%;
+  object-fit: cover;
+
+}
+
+.card{
+  background-color: transparent;
+  border: 1px solid #64ffda;
+}
+.card:hover{
+  scale:calc(1.05);
+  
+}
+
+.card-title{
+  color:white
+}
+.badge{
+  margin-top: 12px;
+}
+.card-price{
+  color:white
+}
+
+#card-sepet{
+  color:white;
+  border:  1px solid #64ffda;
+  
+}
+
+#card-sepet:hover{
+  background-color: rgba(100, 255, 218, 0.1);
+}
+#low-content{
+  margin-top: 35px;
+}
+
+
+#dropdownMenuButton{
+  color: white;
+  border-bottom: 1px solid #64ffda; 
+  border-radius: 5px; 
+  outline: none;
+  margin-top: 25px;
+
+}

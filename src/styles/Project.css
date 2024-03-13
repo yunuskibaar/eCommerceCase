@@ -1,0 +1,24 @@
+.card {
+  height: 400px; /* Card'ın genel yüksekliği */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  
+}
+
+.card-img-top {
+  width: 100%;
+  height: 50%; /* Resmin yarısı */
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.card-text {
+  font-size: 1rem;
+}
+
+.text-muted {
+  font-size: 0.9rem;
+}
