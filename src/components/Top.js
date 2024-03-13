@@ -2,7 +2,7 @@
 import React, { useEffect } from "react";
 import ScrollReveal from "scrollreveal";
 import { Link } from "react-scroll";
-import profil from "../img/profil.jpg";
+
 import "../styles/top.css";
 import Body from "./Body";
 
