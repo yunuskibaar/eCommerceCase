@@ -4,9 +4,6 @@ import '../styles/Main.css'
 import Body from './Body'
 import Top from './Top'
 import Project from './Project'
-import deneme from "../img/deneme.jpg"
-import deneme1 from "../img/deneme1.jpg"
-import profil from "../img/profil.jpg";
 import phone from "../img/phone.jpg"
 import phone1 from "../img/phone1.jpg"
 
